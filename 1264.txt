@@ -1,0 +1,7 @@
+var
+a,b,func: integer; 
+begin
+readln (a,b);
+func := (a*(b+1));
+writeln(func);
+end.

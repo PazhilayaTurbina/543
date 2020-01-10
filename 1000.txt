@@ -1,0 +1,7 @@
+var
+a,b,sum: integer; 
+begin
+readln (a,b);
+sum := a+b;
+writeln(sum);
+end.
